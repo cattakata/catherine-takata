@@ -1,0 +1,16 @@
+---
+title: "Catherine Takata"
+image: "cat.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/catherine-takata-979657204/"
+  - label: GitHub
+    url: "https://github.com/cattakata"
+  - label: Email
+    url: "mailto:ctakata@ucsb.edu"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+ 
+Catherine Takata, a first year Master’s student in the Bren School of Environmental Science and Management, UC Santa Barbara, developed an early passion for the environment. As a Native Hawaiian, hands-on conservation through Kamehameha Schools taught her to respect the land and ocean. This led to a B.S. in Earth Science with a concentration in Environmental Geology from UC Santa Cruz. At Bren, Cat will specialize in Coastal Resource Management.
